@@ -1,4 +1,5 @@
-LIBRO: Free eBooks
+# LIBRO: Free eBooks
 
-Team Members:
-Quiambao, Jose Antonio
+## Team Members
+
+Quiambao, Jose Antonio E.
